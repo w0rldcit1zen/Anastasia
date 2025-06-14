@@ -1,0 +1,9 @@
+Hi everyone, I'm Jesse Cruz.
+
+I'm a strategic communicator with over 15 years of experience working with the UN and international organizations. I’m formally trained in political science through both my bachelor’s and master’s degrees, where I focused on the intersection of policy, communication, and power.
+
+My background in data analytics began with academic research—both theses applied text analysis to investigate information barriers in policy communication and how foreign aid messaging contributes to constructing global narratives (what political science often frames as “socially constructing a new world order”).
+
+Early on, my analysis was entirely manual: highlighters, printed documents, and qualitative coding of language that shaped access and influence. Over time, I transitioned into more automated approaches. A turning point came while analyzing diplomatic communications, particularly around South-South Cooperation, where I built a web scraper to examine how foreign governments were crafting their narratives. That’s when I started coding—to move from manual text analysis to automated data collection, cleaning, and preparation.
+
+Since then, coding has become an integral part of my toolkit in both research and communications. I’m passionate about using data to reveal patterns, challenge assumptions, and ultimately support more inclusive and effective storytelling. Looking forward to learning with you all.
