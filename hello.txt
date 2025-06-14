@@ -7,3 +7,15 @@ My background in data analytics began with academic research—both theses appli
 Early on, my analysis was entirely manual: highlighters, printed documents, and qualitative coding of language that shaped access and influence. Over time, I transitioned into more automated approaches. A turning point came while analyzing diplomatic communications, particularly around South-South Cooperation, where I built a web scraper to examine how foreign governments were crafting their narratives. That’s when I started coding—to move from manual text analysis to automated data collection, cleaning, and preparation.
 
 Since then, coding has become an integral part of my toolkit in both research and communications. I’m passionate about using data to reveal patterns, challenge assumptions, and ultimately support more inclusive and effective storytelling. Looking forward to learning with you all.
+
+What I hope to gain from this program and how I plan to apply it:
+
+My aim in joining this program is to move from intuition to mastery—to sharpen my data analytics and coding skills, commit key concepts to memory, and confidently speak the language of data science. I want to translate that fluency into action: applying what I learn to the real-world communication challenges I navigate daily in my role at the UN.
+
+Much of my work involves distilling complex climate, policy, and disaster risk information into accessible, timely messaging across global platforms. I see immense potential in automating and augmenting that process using the tools of this field. Already, I’ve evolved from manually coding policy texts with highlighters to using web scrapers and automation to uncover patterns in diplomatic narratives. But I want to go further—transforming raw, unstructured data into insight-driven strategies at scale.
+
+At the moment, I’m most comfortable working with text data, and that’s where I see immediate application: using natural language processing (NLP) and Large Language Models (LLMs) to streamline content creation, sentiment analysis, and thematic extraction across the vast volume of multilingual communication we manage. This is in line with a major industry shift toward AI-assisted communication pipelines—enabling teams to respond faster, personalize better, and adapt continuously.
+
+But I’m also curious to explore the edge of what’s possible. I’m increasingly interested in multimodal analysis—integrating text, video, and even spatial or VR data—to push the boundaries of storytelling and audience engagement. As immersive and experiential communication grows, especially in awareness campaigns and public engagement, I want to be ready to prototype new formats that reach audiences across sensory channels.
+
+Ultimately, I see this program as a stepping stone to becoming a more analytical, inventive, and efficient communicator—one who can blend narrative intuition with technical precision to meet the moment and shape global dialogue more effectively.
